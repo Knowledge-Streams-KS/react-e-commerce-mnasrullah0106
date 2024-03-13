@@ -1,0 +1,15 @@
+.Products{
+    display: flex;
+    /* flex-wrap: wrap; */
+    max-width: 300px;
+    min-width: 300px;
+    display: inline-block;
+   
+
+}
+.img{
+    max-width: 300px;
+}
+li{
+    display: inline-block;
+}
